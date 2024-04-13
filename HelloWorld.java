@@ -1,6 +1,6 @@
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello SAM!");
+    System.out.println("Hello World!");
   }
 }
 #kjsvnsls
